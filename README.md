@@ -15,22 +15,23 @@
 ```gedit script.bash```  
 
 Пишем скрипт, выводящий при запуске файла "Welcome to ITMO University":  
-(СКРИН!!!!!!!!!!!!!!)
+![script1](https://github.com/user-attachments/assets/6f9e869d-0ddb-4217-868c-eeee0f495b8f)
+
 
 Запускаем файл и смотрим на результат (ура! оно работает!):  
-(СКРИН)
+![terminal_script1](https://github.com/user-attachments/assets/5875c160-7b1c-446b-8535-62b9e470c6b3)
+
 
 Для выполнения главного задания ищем источники в интернете:  
-(СКРИН)
+![bashspecialvariables](https://github.com/user-attachments/assets/5242b06d-762d-49e7-b23e-44213764fdef)
+
 
 Открываем файл script.bash:  
 ```gedit script.bash```  
 
 Меняем скрипт, добавляя специальные переменные:  
-(СКРИН)
+![script2](https://github.com/user-attachments/assets/6a7d6774-02e1-433b-aad1-161d1417d2f7)
+
 
 Запускаем файл и смотрим на результат:  
-(СКРИН)
-
-
-![image](https://github.com/user-attachments/assets/7fa99c40-727f-4437-922c-d596e87a44b3)
+![terminal_script2](https://github.com/user-attachments/assets/53d44b95-540e-4659-936e-fe3610fb6737)
