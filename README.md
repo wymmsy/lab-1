@@ -2,7 +2,7 @@
 
 Создаём папку для лабораторных работ и заходим в неё:  
 ```mkdir informatics-labs```  
-```cd informatics-labs/```  
+```cd informatics-labs```  
 
 Создаём папку для 1 лаборатрной работы и заходим в неё:  
 ```mkdir lab1```  
